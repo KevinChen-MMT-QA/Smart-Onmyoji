@@ -16,18 +16,19 @@
 
 在『科学斗技』的帮助下，我产出了多份斗技攻略，涵盖非名仕与百星顶分段，帮助多名寮友圆梦名仕；『科学斗技』原理科普视频也受到广泛关注，系列视频累计播放量逾18万。
 
-除了斗技，目前个人感兴趣的研究方向包括但不限于：
+除了斗技攻略，未来的产出方向包括但不限于：
 
-* **『AI绘画』**：基于AGC的阴阳师式神插画绘制
-* **『科学对弈』**
+* **『科学对弈』**：斗技竞猜模拟器
+* **『用户端开发』**：构建高效便捷、开放的API
+* **『AI绘画』**：阴阳师式神插画AIGC绘制
 
 ## 开源项目概览
 
 |  项目名称   | 项目描述  |
 |  --------  | --------  |
-| [『阴阳师』斗技数据获取](https://github.com/KevinChen-MMT-QA/Onmyoji-Data-Miner)  | 项目描述 |
-| [『阴阳师』对弈竞猜模拟器](https://github.com/KevinChen-MMT-QA/Onmyoji-Smart-Gambling)  | 项目描述 |
-|[『AI绘画』阴阳师-不知火](https://github.com/KevinChen-MMT-QA/Onmyoji-AI-Drawing) | 项目描述 |
+| [『阴阳师』斗技数据获取](https://github.com/KevinChen-MMT-QA/Onmyoji-Data-Miner)  | 基于Selenium的网络爬虫，获取原始斗技数据 |
+| [『阴阳师』对弈竞猜模拟器](https://github.com/KevinChen-MMT-QA/Onmyoji-Smart-Gambling)  | 蒙特卡洛模拟对弈竞猜结果 |
+|[『AI绘画』阴阳师-不知火](https://github.com/KevinChen-MMT-QA/Onmyoji-AI-Drawing) |  AI绘画（Stable Diffusion + LORA） |
 
 
 
